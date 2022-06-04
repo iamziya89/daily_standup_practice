@@ -269,13 +269,13 @@
   
   
   i{
-      color: aliceblue;
+      color: greenyellow;
       padding: 20px;
       font-size: 30px;
   }
   footer{
       display: flex;
-      background-color: rgb(35, 13, 241);
+      background-color: rgb(71, 57, 196);
       justify-content: center;
   
   }
