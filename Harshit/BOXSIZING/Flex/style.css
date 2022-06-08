@@ -1,0 +1,36 @@
+.container{
+     background: #eee;
+     width: 600px;
+     margin: 50px auto;
+     border: 3px solid black;
+     padding: 10px;
+     /* width: 300px; */
+     height: 300px;
+     display: flex;
+     /* flex-direction: row;
+     flex-wrap: wrap-reverse; */
+     /* flex-flow: column-reverse wrap-reverse; */
+     /* justify-content: space-between; */
+     align-items: c;
+}
+.item1{
+    background: orangered;
+}
+.item2{
+    background: yellowgreen;
+}
+.item3{
+    background: mediumpurple;
+}
+.item4{
+    background: hotpink;
+}
+
+.item{
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 5px;
+}
